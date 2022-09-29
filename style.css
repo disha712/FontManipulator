@@ -1,0 +1,11 @@
+.title{
+    width:100%;
+}
+.footer{
+    position:fixed;
+    background-color:lightgreen;
+    width:100%;
+    bottom:0;
+    line-height:3;
+    text-align:center;
+}
