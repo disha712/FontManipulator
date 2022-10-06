@@ -9,3 +9,8 @@
     line-height:3;
     text-align:center;
 }
+canvas{
+    border:5px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
